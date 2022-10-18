@@ -34,5 +34,5 @@
   ### <div align=center>📮 Contact to ME 📮</div>
 
 
-<div align=center><a href="mailto:ksg3452@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a></div>
-<div align=center><a href ="https://www.notion.so/iOS-Developer-Profile-7e3ef91f50544c249360770ff92ea2e6"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a></div>
+<div align=center>E-mail : <a href="mailto:ksg3452@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a></div><br>
+<div align=center>Profile : <a href ="https://www.notion.so/iOS-Developer-Profile-7e3ef91f50544c249360770ff92ea2e6"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a></div>
