@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Sean's%20Library&fontSize=50" />
 
 ---
-### HELLO~ I'm Sean
- #### My main skill is to use Swift language.
- #### So I'm trying for the iOS developer.
+### <div align=center>HELLO~</div>
 ---
  
   ### <div align=center>✨ What Can I do? ✨</div>
