@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 </div>
 
-### <div align=center>🍀 What can I do at Swift? 🍀</div>
+### <div align=center>🍀 What can I do at iOS? 🍀</div>
 <div align=center>
 
 |💡 Available 💡|📖 Studying 📖|
