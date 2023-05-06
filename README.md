@@ -30,11 +30,7 @@ Anything
 ### <div align=center>📦 Another preparation 📦</div>
 <div align=center>
 
-SwiftUI
- 
-<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat&logo=Swift&logoColor=white"><br>
- 
- 
+<img src="https://img.shields.io/badge/SwiftUI-54BBFF?style=flat&logo=Swift&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
 
 
