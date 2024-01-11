@@ -39,7 +39,7 @@ Anything
 
 <div align=center><h2>📦 Another preparation 📦</h2></div>
 
-<div align=center>
+<div align=center>🟦
     <p>
         <h3>iOS Skill</h3>
         <table>
@@ -48,12 +48,13 @@ Anything
             <th>Progress</th>
             <tr>
                 <td><img src="https://img.shields.io/badge/SwiftUI-143059?style=flat&logo=Swift&logoColor=white"></td>
-                <td>SWIFTUI</td>
+                <td>SwiftUI</td>
+                <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
+                <td><img src="https://img.shields.io/badge/Combine-000000?style=flat&logo=framework&logoColor=white"></td>
+                <td>Combine</td>
+                <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
             </tr>
         </table>
-            
-        
-        <img src="https://img.shields.io/badge/Combine-000000?style=flat&logo=framework&logoColor=white">
     </p>
     <p>
         <h3>Web Skill</h3>
