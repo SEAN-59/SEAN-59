@@ -89,15 +89,25 @@ Anything
                 <td>React</td>
                 <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
             </tr>
+        </table>
     </p>
     <p>
         <h3>Server Skill</h3>
-        <p>
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
-        </p>
-        <p>
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
-        </p>
+        <table>
+            <th>Logo</th>
+            <th>Name</th>
+            <th>Progress</th>
+            <tr>
+                <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"></td>
+                <td>Node.js</td>
+                <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
+            </tr>
+            <tr>
+                <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"></td>
+                <td>MongoDB</td>
+                <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
+            </tr>
+        </table>
     </p>
 </div>
 
