@@ -16,7 +16,7 @@
  
 </div>
 <!-- <div align=center> -->
- <hr size="5" align="center">
+ <hr size="5" width="200" align="center">
 <!--                    </div> -->
 <div align=center><h2>🍀 What can I do at iOS? 🍀</h2></div>
 <div align=center>
