@@ -47,7 +47,7 @@ Anything
             <th>Name</th>
             <th>Progress</th>
             <tr>
-                <td><img src="https://img.shields.io/badge/SwiftUI-143059?style=flat&logo=Swift&logoColor=white"></td>
+                <td><div align=center><img src="https://img.shields.io/badge/SwiftUI-143059?style=flat&logo=Swift&logoColor=white"></div></td>
                 <td>SwiftUI</td>
                 <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
             </tr>
