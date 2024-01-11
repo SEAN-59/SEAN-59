@@ -15,7 +15,9 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
  
 </div>
----
+<!-- <div align=center> -->
+ <hr size="5" align="center>
+<!--                    </div> -->
 <div align=center><h2>🍀 What can I do at iOS? 🍀</h2></div>
 <div align=center>
 Anything
