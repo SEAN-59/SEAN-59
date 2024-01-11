@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Sean's%20Library&fontSize=50" />
 
----
 ## <div align=center>HELLO~</div>
 ### <div align=center>"잘 할 수 있을까?" 를 생각하며 시작하기보다</div>
 ### <div align=center>재밌어 보이는건 일단 해보고, 잘하기 위해 그냥 계속합니다.</div>
@@ -75,7 +74,7 @@ Anything
 <div align=center><h2>📮 Contact to ME 📮</h2></div>
 <div align=center>E-mail : <a href="mailto:ksg3452@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a></div><br>
 
-<div align = center><h3> 📒 Blog 📒 </h3></div>
+<div align = center><h2> 📒 Blog 📒 </h2></div>
     <p>
         <div align=center><h4>velog : <a href="https://velog.io/@sean_kk">sean_velog</a></h4></div>
     </p>
