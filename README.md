@@ -107,16 +107,16 @@ Anything
     </p>
     <p>
         <h3>Server Skill</h3>
-        <table align = "center">
+        <table>
             <th>Logo</th>
             <th>Name</th>
             <th>Progress</th>
-            <tr>
+            <tr align = "center">
                 <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"></td>
                 <td>Node.js</td>
                 <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
             </tr>
-            <tr>
+            <tr align = "center">
                 <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"></td>
                 <td>MongoDB</td>
                 <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
