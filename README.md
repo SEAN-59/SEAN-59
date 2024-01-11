@@ -59,19 +59,12 @@ Anything
             <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
         </p>
     </p>
-  
- 
-<!-- <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"> -->
-
 </div>
-
-  ### <div align=center>📮 Contact to ME 📮</div>
-
-
+<div align=center><h2>📮 Contact to ME 📮</h2></div>
 <div align=center>E-mail : <a href="mailto:ksg3452@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a></div><br>
 
-### <div align = center> 📒 Blog 📒 </div>
-#### <div align=center> velog : <a href="https://velog.io/@sean_kk">sean_velog</a></div><br>
-
-### 
+<div align = center><h3> 📒 Blog 📒 </h3></div>
+    <p>
+        <div align=center><h4>velog : <a href="https://velog.io/@sean_kk">sean_velog</a></h4></div>
+    </p>
 <!-- <div align=center>Profile : <a href ="https://www.notion.so/iOS-Developer-Profile-7e3ef91f50544c249360770ff92ea2e6"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a></div> -->
