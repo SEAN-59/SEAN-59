@@ -97,11 +97,11 @@ Anything
                 <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
             </tr>
             <tr>
-                <div align=center>
-                <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"></td>
+                <td>
+                    <div align=center><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"></div>
+                </td>
                 <td>React</td>
                 <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
-                </div>
             </tr>
         </table>
     </p>
@@ -112,7 +112,7 @@ Anything
             <th>Name</th>
             <th>Progress</th>
             <tr>
-                <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"></td>
+                <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" align="center"></td>
                 <td>Node.js</td>
                 <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
             </tr>
