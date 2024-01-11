@@ -42,7 +42,17 @@ Anything
 <div align=center>
     <p>
         <h3>iOS Skill</h3>
-        <img src="https://img.shields.io/badge/SwiftUI-143059?style=flat&logo=Swift&logoColor=white">
+        <table>
+            <th>Logo</th>
+            <th>Name</th>
+            <th>Progress</th>
+            <tr>
+                <td><img src="https://img.shields.io/badge/SwiftUI-143059?style=flat&logo=Swift&logoColor=white"></td>
+                <td>SWIFTUI</td>
+            </tr>
+        </table>
+            
+        
         <img src="https://img.shields.io/badge/Combine-000000?style=flat&logo=framework&logoColor=white">
     </p>
     <p>
