@@ -107,12 +107,12 @@ Anything
     </p>
     <p>
         <h3>Server Skill</h3>
-        <table>
+        <table align="center">
             <th>Logo</th>
             <th>Name</th>
             <th>Progress</th>
             <tr>
-                <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" align="center"></td>
+                <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"></td>
                 <td>Node.js</td>
                 <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
             </tr>
