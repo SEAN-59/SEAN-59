@@ -8,6 +8,7 @@
  
   ### <div align=center>✨ What Can I do? ✨</div>
 <div align=center>
+ <p></p>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/-Objective--C-lightgrey">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
@@ -30,9 +31,11 @@ Anything
 
 ### <div align=center>📦 Another preparation 📦</div>
 <div align=center>
- 
+ <p>
  #### iOS Skill
   <img src="https://img.shields.io/badge/SwiftUI-143059?style=flat&logo=Swift&logoColor=white"><br>
+  </p>
+  
   
  #### Web Skill
  <p>
@@ -43,7 +46,9 @@ Anything
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
    </p>
+   <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"><br>
+  </p>
 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
  
