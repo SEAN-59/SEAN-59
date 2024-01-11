@@ -6,7 +6,7 @@
 ### <div align=center>재밌어 보이는건 일단 해보고, 잘하기 위해 그냥 계속합니다.</div>
 
 <div align=center>
-  <hr size="2">
+  <hr size="10">
 </div>
  
 <div align=center><h2>✨ What Can I do? ✨</h2></div>
