@@ -30,8 +30,6 @@ Anything
 
 ### <div align=center>📦 Another preparation 📦</div>
 <div align=center>
- <ul>
-  
   #### iOS Skill
   <img src="https://img.shields.io/badge/SwiftUI-143059?style=flat&logo=Swift&logoColor=white"><br>
   
@@ -46,7 +44,6 @@ Anything
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"><br><br>
  
 <!-- <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"> -->
- </ul>
 
 </div>
 
