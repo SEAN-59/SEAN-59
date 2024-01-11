@@ -12,18 +12,17 @@
  
 <div align=center><h2>✨ What Can I do? ✨</h2></div>
 <div align=center>
-<!--  <p></p> -->
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
-<img src="https://img.shields.io/badge/-Objective--C-lightgrey">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
- 
+    <p>
+        <h3>iOS Skill</h3>
+        <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
+        <img src="https://img.shields.io/badge/-Objective--C-lightgrey">
+    </p>
+    <p>
+        <h3>others</h3>
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+    </p>
 </div>
-<!--
-<div align=center>
-  <hr size="5" width="500">
-</div>
--->
 
 <div align=center><h2>🍀 What can I do at iOS? 🍀</h2></div>
 <div align=center>
