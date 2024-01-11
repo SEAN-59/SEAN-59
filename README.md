@@ -39,7 +39,7 @@ Anything
 
 <div align=center><h2>📦 Another preparation 📦</h2></div>
 
-<div align=center>🟦
+<div align=center>
     <p>
         <h3>iOS Skill</h3>
         <table>
