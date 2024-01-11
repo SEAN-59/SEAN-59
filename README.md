@@ -6,7 +6,7 @@
 ### <div align=center>재밌어 보이는건 일단 해보고, 잘하기 위해 그냥 계속합니다.</div>
 ---
  
-  ### <div align=center>✨ What Can I do? ✨</div>
+<div align=center><h2>✨ What Can I do? ✨</h2></div>
 <div align=center>
 <!--  <p></p> -->
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
@@ -15,8 +15,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
  
 </div>
-
-### <div align=center>🍀 What can I do at iOS? 🍀</div>
+---
+<div align=center><h2>🍀 What can I do at iOS? 🍀</h2></div>
 <div align=center>
 Anything
 <!--
@@ -28,7 +28,7 @@ Anything
 |Realm||
 -->
 </div>
-
+---
 <div align=center><h2>📦 Another preparation 📦</h2></div>
 
 <div align=center>
@@ -60,6 +60,7 @@ Anything
         </p>
     </p>
 </div>
+---
 <div align=center><h2>📮 Contact to ME 📮</h2></div>
 <div align=center>E-mail : <a href="mailto:ksg3452@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a></div><br>
 
