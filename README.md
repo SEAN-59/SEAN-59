@@ -107,7 +107,7 @@ Anything
     </p>
     <p>
         <h3>Server Skill</h3>
-        <table align="center">
+        <table align = "center">
             <th>Logo</th>
             <th>Name</th>
             <th>Progress</th>
