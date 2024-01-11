@@ -50,8 +50,16 @@ Anything
             <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"><br>
         </p>
     </p>
-
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
+    <p>
+        <h3>Server Skill</h3>
+        <p>
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
+        </p>
+        <p>
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
+        </p>
+    </p>
+  
  
 <!-- <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"> -->
 
