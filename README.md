@@ -42,7 +42,7 @@ Anything
 <div align=center>
     <p>
         <h3>iOS Skill</h3>
-        <table>
+        <table width="300">
             <th>Logo</th>
             <th>Name</th>
             <th>Progress</th>
