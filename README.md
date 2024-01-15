@@ -1,20 +1,15 @@
 <!DOCTYPE html>
 <html>
     <body>
-    <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Sean's%20Library&fontSize=50" />-->
-    <!--## <div align=center>HELLO~</div>-->
+    <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Sean's%20Library&fontSize=50" /> -->
     <div align=center>
     <h1>인사글</h1>
-    <!--   <div align=center><font size = 7>"잘 할 수 있을까?" 를 생각하며 시작하기보다</font></div> -->
-        "잘 할 수 있을까?" 를 생각하며 시작하기보다
-        <p style="font-size:50px">"잘 할 수 있을까?" 를 생각하며 시작하기보다</p>
+        <p style="font-size:2000%">
+            "잘 할 수 있을까?" 를 생각하며 시작하기보다<br>
+            재밌어 보이는건 일단 해보고, 잘하기 위해 그냥 계속합니다.
+        </p>
       </div>
-      <h4><div align=center>재밌어 보이는건 일단 해보고, 잘하기 위해 그냥 계속합니다.</div></h4>
-    <!--
-    <div align=center>
-      <hr size="10">
-    </div>
-    -->
+    <!-- ----- ----- ----- ----- 주 ----- ----- ----- ----- 석 ----- ----- ----- ----- 구 ----- ----- ----- ----- 분 ----- ----- ----- ----- -->
     <div align=center><h2>✨ What Can I do? ✨</h2></div>
     <div align=center>
         <p>
@@ -54,6 +49,7 @@
             </table>
         </p>
     </div>
+    <!-- ----- ----- ----- ----- 주 ----- ----- ----- ----- 석 ----- ----- ----- ----- 구 ----- ----- ----- ----- 분 ----- ----- ----- ----- -->
     <div align=center><h2>🍀 What can I do at iOS? 🍀</h2></div>
     <div align=center>
     Anything
@@ -66,6 +62,7 @@
     |Realm||
     -->
     </div>
+    <!-- ----- ----- ----- ----- 주 ----- ----- ----- ----- 석 ----- ----- ----- ----- 구 ----- ----- ----- ----- 분 ----- ----- ----- ----- -->
     <div align=center><h2>📦 Another preparation 📦</h2></div>
     <div align=center>                    
         <p>
@@ -138,8 +135,10 @@
             </table>
         </p>
     </div>
+    <!-- ----- ----- ----- ----- 주 ----- ----- ----- ----- 석 ----- ----- ----- ----- 구 ----- ----- ----- ----- 분 ----- ----- ----- ----- -->
     <div align=center><h2>📮 Contact to ME 📮</h2></div>
     <div align=center>E-mail : <a href="mailto:ksg3452@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a></div><br>
+    <!-- ----- ----- ----- ----- 주 ----- ----- ----- ----- 석 ----- ----- ----- ----- 구 ----- ----- ----- ----- 분 ----- ----- ----- ----- -->
     <div align = center><h2> 📒 Blog 📒 </h2></div>
         <p>
             <div align=center><h4>velog : <a href="https://velog.io/@sean_kk">sean_velog</a></h4></div>
