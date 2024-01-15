@@ -14,13 +14,39 @@
 <div align=center>
     <p>
         <h3>iOS Skill</h3>
-        <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" width="80" height="22">
-        <img src="https://img.shields.io/badge/-Objective--C-lightgrey" width="80" height="22">
+        <table>
+            <th width="100">Logo</th>
+            <th width="120">Name</th>
+            <th width="120">USE</th>
+            <tr align = "center">
+                <td><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" width="80" height="22"></td>
+                <td>Swift</td>
+                <td>★★★★★</td>
+            </tr>
+            <tr align = "center">
+                <td><img src="https://img.shields.io/badge/-Objective--C-lightgrey" width="80" height="22"></td>
+                <td>Objective-C</td>
+                <td>★★★☆☆</td>
+            </tr>
+        </table>
     </p>
     <p>
         <h3>others</h3>
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" width="80" height="22">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" width="80" height="22">
+        <table>
+            <th width="100">Logo</th>
+            <th width="120">Name</th>
+            <th width="120">USE</th>
+            <tr align = "center">
+                <td><img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" width="80" height="22"></td>
+                <td>Arduino</td>
+                <td>★★★★☆</td>
+            </tr>
+            <tr align = "center">
+                <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" width="80" height="22"></td>
+                <td>Python</td>
+                <td>★★☆☆☆</td>
+            </tr>
+        </table>
     </p>
 </div>
 
