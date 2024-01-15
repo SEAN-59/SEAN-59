@@ -14,7 +14,7 @@
 <div align=center>
     <p>
         <h3>iOS Skill</h3>
-        <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" width="80">
+        <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" width="80" height="50">
         <img src="https://img.shields.io/badge/-Objective--C-lightgrey">
     </p>
     <p>
