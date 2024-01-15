@@ -2,11 +2,11 @@
 <html>
     <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Sean's%20Library&fontSize=50" />-->
     <!--## <div align=center>HELLO~</div>-->
+    <div align=center>
     <h1>인사글</h1>
     <!--   <div align=center><font size = 7>"잘 할 수 있을까?" 를 생각하며 시작하기보다</font></div> -->
-      <div align=center>
         "잘 할 수 있을까?" 를 생각하며 시작하기보다
-        <p style="font-size:50px;">"잘 할 수 있을까?" 를 생각하며 시작하기보다</p>
+        <p style="font-size:50px">"잘 할 수 있을까?" 를 생각하며 시작하기보다</p>
       </div>
       <h4><div align=center>재밌어 보이는건 일단 해보고, 잘하기 위해 그냥 계속합니다.</div></h4>
     <!--
