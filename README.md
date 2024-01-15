@@ -67,13 +67,13 @@
     -->
     </div>
     <div align=center><h2>📦 Another preparation 📦</h2></div>
-    <div align=center>
+    <div align=center>                    
         <p>
             <h3>iOS Skill</h3>
             <table>
                 <th width="100">Logo</th>
                 <th width="120">Name</th>
-                <th width="200">Progress</th>
+                <th width="250">Progress</th>
                 <tr align = "center">
                     <td><img src="https://img.shields.io/badge/SwiftUI-143059?style=flat&logo=Swift&logoColor=white" width="80" height="22"></td>
                     <td>SwiftUI</td>
@@ -91,7 +91,7 @@
             <table width="300">
                 <th width="100">Logo</th>
                 <th width="120">Name</th>
-                <th width="200">Progress</th>
+                <th width="250">Progress</th>
                 <tr align = "center">
                     <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" width="80" height="22"></td>
                     <td>HTML5</td>
@@ -124,7 +124,7 @@
             <table>
                 <th width="100">Logo</th>
                 <th width="120">Name</th>
-                <th width="200">Progress</th>
+                <th width="250">Progress</th>
                 <tr align = "center">
                     <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" width="80" height="22"></td>
                     <td>Node.js</td>
