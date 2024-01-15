@@ -31,7 +31,7 @@
         </table>
     </p>
     <p>
-        <h3>others</h3>
+        <h3>Others</h3>
         <table>
             <th width="100">Logo</th>
             <th width="120">Name</th>
