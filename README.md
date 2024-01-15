@@ -42,13 +42,13 @@ Anything
 <div align=center>
     <p>
         <h3>iOS Skill</h3>
-        <table border="1" width="300">
+        <table>
             <th>Logo</th>
             <th>Name</th>
             <th>Progress</th>
             <tr align = "center">
                 <td width = "100"><img src="https://img.shields.io/badge/SwiftUI-143059?style=flat&logo=Swift&logoColor=white" width="80" height="22"></td>
-                <td width = "500">SwiftUI</td>
+                <td width = "100">SwiftUI</td>
                 <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
             </tr>
             <tr align = "center">
@@ -62,7 +62,7 @@ Anything
         <h3>Web Skill</h3>
         <table width="300">
             <th>Logo</th>
-            <th>Name</th>
+            <th width="120">Name</th>
             <th>Progress</th>
             <tr align = "center">
                 <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" width="80" height="22"></td>
