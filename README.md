@@ -1,8 +1,8 @@
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Sean's%20Library&fontSize=50" />-->
-
-## <div align=center>HELLO~</div>
-### <div align=center>"잘 할 수 있을까?" 를 생각하며 시작하기보다</div>
-### <div align=center>재밌어 보이는건 일단 해보고, 잘하기 위해 그냥 계속합니다.</div>
+<!--## <div align=center>HELLO~</div>-->
+<h1></h1>
+  <h2><div align=center>"잘 할 수 있을까?" 를 생각하며 시작하기보다</div></H2>
+  <h2><div align=center>재밌어 보이는건 일단 해보고, 잘하기 위해 그냥 계속합니다.</div></h2>
 
 <!--
 <div align=center>
