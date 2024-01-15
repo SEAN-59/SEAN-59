@@ -53,7 +53,6 @@
             </table>
         </p>
     </div>
-    
     <div align=center><h2>🍀 What can I do at iOS? 🍀</h2></div>
     <div align=center>
     Anything
@@ -66,9 +65,7 @@
     |Realm||
     -->
     </div>
-    
     <div align=center><h2>📦 Another preparation 📦</h2></div>
-    
     <div align=center>
         <p>
             <h3>iOS Skill</h3>
@@ -140,10 +137,8 @@
             </table>
         </p>
     </div>
-    
     <div align=center><h2>📮 Contact to ME 📮</h2></div>
     <div align=center>E-mail : <a href="mailto:ksg3452@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a></div><br>
-    
     <div align = center><h2> 📒 Blog 📒 </h2></div>
         <p>
             <div align=center><h4>velog : <a href="https://velog.io/@sean_kk">sean_velog</a></h4></div>
