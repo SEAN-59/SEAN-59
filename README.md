@@ -43,12 +43,12 @@ Anything
     <p>
         <h3>iOS Skill</h3>
         <table>
-            <th>Logo</th>
-            <th>Name</th>
-            <th>Progress</th>
+            <th width="100">Logo</th>
+            <th width="120">Name</th>
+            <th width="300">Progress</th>
             <tr align = "center">
-                <td width = "100"><img src="https://img.shields.io/badge/SwiftUI-143059?style=flat&logo=Swift&logoColor=white" width="80" height="22"></td>
-                <td width = "100">SwiftUI</td>
+                <td><img src="https://img.shields.io/badge/SwiftUI-143059?style=flat&logo=Swift&logoColor=white" width="80" height="22"></td>
+                <td></td>SwiftUI</td>
                 <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
             </tr>
             <tr align = "center">
@@ -61,9 +61,9 @@ Anything
     <p>
         <h3>Web Skill</h3>
         <table width="300">
-            <th>Logo</th>
+            <th width="100">Logo</th>
             <th width="120">Name</th>
-            <th>Progress</th>
+            <th width="300">Progress</th>
             <tr align = "center">
                 <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" width="80" height="22"></td>
                 <td>HTML5</td>
@@ -94,9 +94,9 @@ Anything
     <p>
         <h3>Server Skill</h3>
         <table>
-            <th>Logo</th>
-            <th>Name</th>
-            <th>Progress</th>
+            <th width="100">Logo</th>
+            <th width="120">Name</th>
+            <th width="300">Progress</th>
             <tr align = "center">
                 <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" width="80" height="22"></td>
                 <td>Node.js</td>
