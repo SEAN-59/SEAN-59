@@ -60,7 +60,7 @@ Anything
     </p>
     <p>
         <h3>Web Skill</h3>
-        <table>
+        <table width="300">
             <th>Logo</th>
             <th>Name</th>
             <th>Progress</th>
