@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+    <body>
     <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Sean's%20Library&fontSize=50" />-->
     <!--## <div align=center>HELLO~</div>-->
     <div align=center>
@@ -144,4 +145,5 @@
             <div align=center><h4>velog : <a href="https://velog.io/@sean_kk">sean_velog</a></h4></div>
         </p>
     <!-- <div align=center>Profile : <a href ="https://www.notion.so/iOS-Developer-Profile-7e3ef91f50544c249360770ff92ea2e6"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a></div> -->
+    </body>
 </html>
