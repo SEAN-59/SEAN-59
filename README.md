@@ -48,7 +48,7 @@ Anything
             <th>Progress</th>
             <tr align = "center">
                 <td width = "100"><img src="https://img.shields.io/badge/SwiftUI-143059?style=flat&logo=Swift&logoColor=white" width="80" height="22"></td>
-                <td width = "100">SwiftUI</td>
+                <td width = "500">SwiftUI</td>
                 <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
             </tr>
             <tr align = "center">
