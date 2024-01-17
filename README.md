@@ -97,12 +97,12 @@
                 <tr align = "center">
                     <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" width="80" height="22"></td>
                     <td>CSS3</td>
-                    <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
+                    <td>🟦⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
                 </tr>
                 <tr align = "center">
                     <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" width="80" height="22"></td>
                     <td>JavaScript</td>
-                    <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
+                    <td>🟦⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
                 </tr>
                 <tr align = "center">
                     <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" width="80" height="22"></td>
