@@ -127,9 +127,17 @@
                     <td>Node.js</td>
                     <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
                 </tr>
+            </table>
+        </p>
+        <p>
+            <h3>DataBase Skill</h3>
+            <table>
+                <th width="100">Logo</th>
+                <th width="120">Name</th>
+                <th width="250">Progress</th>
                 <tr align = "center">
-                    <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" width="80" height="22"></td>
-                    <td>MongoDB</td>
+                    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" width="80" height="22"></td>
+                    <td>MySQL</td>
                     <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
                 </tr>
             </table>
