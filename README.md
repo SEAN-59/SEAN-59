@@ -3,7 +3,7 @@
     <body>
     <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Sean's%20Library&fontSize=50" /> -->
     <div align=center>
-    <h1>인사글</h1>
+    <h1>👋 인사글 👋</h1>
         <p style="font-size:2000%">
             "잘 할 수 있을까?"를 생각하기보다<br>
             일단 해보고, 잘하기 위해 그냥 계속합니다.
@@ -66,6 +66,24 @@
     <div align=center><h2>📦 Another preparation 📦</h2></div>
     <div align=center>                    
         <p>
+        <h3>Language</h3>
+        <table>
+            <th width="100">Logo</th>
+            <th width="120">Name</th>
+            <th width="250">Progress</th>
+            <tr align = "center">
+                <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" width="80" height="22"></td>
+                <td>JavaScript</td>
+                <td>🟦⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
+            </tr>
+            <tr align = "center">
+                <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" width="80" height="22"></td>
+                <td>TypeScript</td>
+                <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
+            </tr>
+        </table>
+        </p>
+        <p>
             <h3>iOS Skill</h3>
             <table>
                 <th width="100">Logo</th>
@@ -100,16 +118,6 @@
                     <td>🟦⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
                 </tr>
                 <tr align = "center">
-                    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" width="80" height="22"></td>
-                    <td>JavaScript</td>
-                    <td>🟦⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
-                </tr>
-                <tr align = "center">
-                    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" width="80" height="22"></td>
-                    <td>TypeScript</td>
-                    <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
-                </tr>
-                <tr align = "center">
                     <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" width="80" height="22"></td>
                     <td>React</td>
                     <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
@@ -138,7 +146,7 @@
                 <tr align = "center">
                     <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" width="80" height="22"></td>
                     <td>MySQL</td>
-                    <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
+                    <td>🟦🟦🟦🟦🟦 ⬜️⬜️⬜️⬜️⬜️</td>
                 </tr>
             </table>
         </p>
