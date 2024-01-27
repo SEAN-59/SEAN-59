@@ -146,7 +146,7 @@
                 <tr align = "center">
                     <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" width="80" height="22"></td>
                     <td>MySQL</td>
-                    <td>🟦🟦🟦🟦🟦 ⬜️⬜️⬜️⬜️⬜️</td>
+                    <td>🟦🟦🟦🟦🟦 🟦🟦⬜️⬜️⬜️</td>
                 </tr>
             </table>
         </p>
