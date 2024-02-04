@@ -133,7 +133,7 @@
                 <tr align = "center">
                     <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" width="80" height="22"></td>
                     <td>Node.js</td>
-                    <td>🟦⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
+                    <td>🟦🟦🟦⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
                 </tr>
             </table>
         </p>
