@@ -92,7 +92,7 @@
                 <tr align = "center">
                     <td><img src="https://img.shields.io/badge/SwiftUI-143059?style=flat&logo=Swift&logoColor=white" width="80" height="22"></td>
                     <td>SwiftUI</td>
-                    <td>🟦🟦🟦⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
+                    <td>🟦🟦🟦🟦⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
                 </tr>
                 <tr align = "center">
                     <td><img src="https://img.shields.io/badge/Combine-000000?style=flat&logo=framework&logoColor=white" width="80" height="22"></td>
