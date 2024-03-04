@@ -97,7 +97,7 @@
                 <tr align = "center">
                     <td><img src="https://img.shields.io/badge/Combine-000000?style=flat&logo=framework&logoColor=white" width="80" height="22"></td>
                     <td>Combine</td>
-                    <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
+                    <td>🟦⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
                 </tr>
             </table>
         </p>
