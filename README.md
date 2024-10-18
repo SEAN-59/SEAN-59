@@ -6,7 +6,8 @@
 
 <h2>✨ What Can I do? ✨</h2>
 
-<h3>Languages <br><small><small><small><em>[★ 은 사용빈도와 숙련도를 나타냅니다.]</em></small></small></small></h3>
+<h3>Languages</h3>
+<p style="font-size: 8px;"><em>[★ 은 사용빈도와 숙련도를 나타냅니다.]</em></p>
 
 <img src="https://img.shields.io/badge/ㅤ%20Swift%20ㅤ-F05138?style=flat&logo=Swift&logoColor=white" width="160" height="32">
 <img src="https://img.shields.io/badge/★★★★★-e8e8e8?style=flat-square" width="120" height="32">
@@ -25,7 +26,8 @@
 <br>
 <br>
 
-<h3>Main Skills<br><small><small><small><em>[★ 은 사용빈도와 숙련도를 나타냅니다.]</em></small></small></small></h3>
+<h3>Main Skills</h3>
+<p style="font-size: 8px;"><em>[★ 은 사용빈도와 숙련도를 나타냅니다.]</em></p>
 
 <img src="https://img.shields.io/badge/ㅤUIKitㅤ-2396F3?style=flat&logo=framework&logoColor=gray&label=iOS&labelColor=e9e9e9" width="160" height="32">
 <img src="https://img.shields.io/badge/★★★★★-e8e8e8?style=flat-square" width="120" height="32">
