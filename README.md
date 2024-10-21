@@ -52,7 +52,7 @@
 <br>
 
 <h3>Other Skills</h3>
-<img src="https://img.shields.io/badge/WEBView-333333?style=flat&logo=framework&logoColor=white" width="100" height="24">ㅤ
+<img src="https://img.shields.io/badge/WebKit-333333?style=flat&logo=framework&logoColor=white" width="100" height="24">ㅤ
 <img src="https://img.shields.io/badge/SnapKit-0FAAFF?style=flat&logo=framework&logoColor=white" width="100" height="24">ㅤ
 <img src="https://img.shields.io/badge/Alamofire-FF3e00?style=flat&logo=framework&logoColor=white" width="100" height="24">
 <br>
