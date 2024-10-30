@@ -152,7 +152,7 @@
 <tr align = "center">
         <td>개발 기록</td>
         <td>
-                <a href="https://s-book.kro.kr">
+                <a href="https://app.gitbook.com/o/bfwM3YmgUlWrdgFEtQPP/s/3zP6jFmVQPnuUizRqLgi/">
                 <img src="https://img.shields.io/badge/ㅤGitBookㅤ-BBDDE5?style=flat&logo=GitBook&logoColor=gray" width="160" height="28">
                 </a>
         </td>
